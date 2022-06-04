@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Redondo-Yuste"
+  given-names: "Jaime"
+  orcid: "https://orcid.org/0000-0003-3697-0319"
+title: "SURF: Spectral Ultra-relativistic Fluids. "
+version: 1.0.0
+date-released: 2022-06-04
+url: "https://github.com/jredondoyuste/SURF"
